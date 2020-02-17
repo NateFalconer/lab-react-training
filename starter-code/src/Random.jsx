@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 
 
 // git test WHERE'S MY COMMIT CREDIT???
+// second test
 
 class Random extends Component {
     min = this.props.min;
